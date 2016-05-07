@@ -1,0 +1,9 @@
+﻿++ odata
+
+http://jaydata.org/blog/how-to-set-up-a-nodejs-odata-endpoint-with-odata-server
+
+[odata tutorial]
+
+[python odata]
+
+[node odata]

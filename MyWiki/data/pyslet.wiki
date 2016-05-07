@@ -1,0 +1,4 @@
+﻿++ pyslet
+
+https://www.pyslet.org/
+http://qtimigration.googlecode.com/svn/doc/pyslet/odatav2_consumer.html

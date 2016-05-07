@@ -1,0 +1,4 @@
+﻿++ mongodb restful api
+
+https://docs.mongodb.org/ecosystem/tools/http-interfaces/#rest-interfaces
+http://python-eve.org/quickstart.html

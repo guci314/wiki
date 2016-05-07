@@ -1,0 +1,10 @@
+﻿++ django rest
+
+django电子书
+http://www.djangobook.com/en/2.0/index.html
+
+https://github.com/django-nonrel
+
+http://stackoverflow.com/questions/30259452/proper-way-to-consume-data-from-restful-api-in-django
+
+https://ultimatedjango.com/blog/how-to-consume-rest-apis-with-django-python-reques/

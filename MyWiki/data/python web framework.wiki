@@ -1,0 +1,10 @@
+﻿++ python web framework
+
+比较
+http://www.csdn.net/article/2013-08-08/2816494-6-pillars-of-python-assessment-of-best-python-web-frameworks
+
+[odm]
+
+[flask]
+[pyramid]
+[web.py]

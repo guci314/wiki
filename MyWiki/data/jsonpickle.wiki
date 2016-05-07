@@ -1,0 +1,4 @@
+﻿++ jsonpickle
+
+https://github.com/jsonpickle/jsonpickle
+https://github.com/initialxy/jsonstruct

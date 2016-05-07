@@ -1,0 +1,10 @@
+﻿++ python odata
+
+[pyslet]
+
+https://github.com/OData/odatapy-client
+
+https://github.com/tuomur/python-odata
+
+Consuming [odata] in Python
+http://scn.sap.com/community/gateway/blog/2014/07/07/consuming-odata-in-python

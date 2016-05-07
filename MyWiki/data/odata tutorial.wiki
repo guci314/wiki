@@ -1,0 +1,4 @@
+﻿++ odata tutorial
+
+odatqa by example
+https://msdn.microsoft.com/en-us/library/ff478141.aspx

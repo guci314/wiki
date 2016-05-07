@@ -1,0 +1,4 @@
+﻿++ odm
+
+[jsonpickle]
+[mongoengine]
